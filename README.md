@@ -1,1 +1,1 @@
-# cs3240-labdemo -- hola !
+# cs3240-labdemo -- Jacqueline is editing README for lab!
